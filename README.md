@@ -42,3 +42,10 @@ Feel free to check out my GitHub repositories and reach out to me if you have an
 - 📫 How to reach me: felix.steinchen@web.de
 - 🌱 I’m currently learning to become better at React as well as Node.js and Express.js 
 - 👯 I’m looking to collaborate on any project including the above shown skills
+
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Moccasym&show_icons=true&theme=blue-green" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moccasym&theme=blue-green&langs_count=8&layout=compact" /></div>
+</div>
