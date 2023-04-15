@@ -1,4 +1,4 @@
-# Hi there, I'm [Felix Steinchen](https://github.com/Moccasym) 👋
+# Hi there, I'm [Felix](https://github.com/Moccasym) 👋
 
 I'm a full-stack developer with a background in microsystem technologies and electrical engineering. I have experience working as a hardware programmer and designer, and I recently completed the [Zero to Mastery course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) on full-stack development from Udemy.
 
