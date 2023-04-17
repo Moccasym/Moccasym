@@ -14,7 +14,7 @@ I'm a full-stack developer with a background in microsystem technologies and ele
 - Deployment
 
 ## AI Assistence
-As an enthusiast of artificial intelligence (AI), I have found working with ChatGPT (OpenAI's language model) to be particularly advantageous in assisting me with coding projects. I firmly believe that the ability to effectively communicate with AI and Effectively communicating with AI and formulating precise and targeted inquiries to elicit accurate responses, will become a crucial skill in the near future. Moreover, ChatGPT/AI has the potential to be a valuable tool in the process of debugging and error detection. I am eager to continue my exploration of AI and its application in my future projects.
+As an enthusiast of artificial intelligence (AI), I have found working with ChatGPT (OpenAI's language model) to be particularly advantageous in assisting me with coding projects. I firmly believe that the ability to effectively communicate with AI and formulating precise and targeted inquiries to elicit accurate responses, will become a crucial skill in the near future. Moreover, ChatGPT/AI has the potential to be a valuable tool in the process of debugging and error detection. I am eager to continue my exploration of AI and its application in my future projects.
 
 ## Softskills
 - Teamwork
