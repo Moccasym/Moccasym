@@ -37,9 +37,9 @@ As an enthusiast of artificial intelligence (AI), I have found working with Chat
 
 ## Projects
 
-- [Face Detection App](https://github.com/Moccasym/Face-Detection-App): A web application that detects faces in images using the Clarifai API.
-- [Face Detection API](https://github.com/Moccasym/Face-Detection-API): A gRPC API for detecting faces in images using the Clarifai API.
-- [RobotFriends](https://github.com/Moccasym/robofriends): A web application that displays and filters robot friends using React.
+- [Face Detection App](https://github.com/Moccasym/face-recognition-brain): A web application that detects faces in images using the Clarifai API.
+- [Face Detection API](https://github.com/Moccasym/face-recognition-brain_API): A gRPC API for detecting faces in images using the Clarifai API.
+- [RobotFriends](https://github.com/Moccasym/robotfriends): A web application that displays and filters robot friends using React.
 
 Feel free to check out my GitHub repositories and reach out to me if you have any questions or want to collaborate on a project.
 - 📫 How to reach me: felix.steinchen@web.de
